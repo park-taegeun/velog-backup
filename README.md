@@ -1,0 +1,34 @@
+# velog-backup
+
+박태근([@xorms](https://velog.io/@xorms/posts))의 Velog 포스팅 백업 레포입니다.
+
+## 포스팅 목록
+
+| 날짜 | 제목 | 태그 |
+| --- | --- | --- |
+| 2026-03-30 | [[ Playwright MCP Server ]](posts/2026-03-30-Playwright-MCP-Server.md) | AI에이전트, MCP, claudecode, playwright, 브라우저자동화 |
+| 2026-03-30 | [[ Notion MCP ]](posts/2026-03-30-Notion-MCP.md) | AI에이전트, MCP, claudecode, notion, 업무자동화 |
+| 2026-03-27 | [[ Context7 + GitHub MCP 콤보 ]](posts/2026-03-27-Context7-GitHub-MCP-콤보.md) | AI에이전트, Context7, MCP, claudecode, github |
+| 2026-03-27 | [[ GitHub MCP ]](posts/2026-03-27-GitHub-MCP.md) | AI에이전트, MCP, claudecode, github, 개발자도구 |
+| 2026-03-27 | [[ Context7 MCP ]](posts/2026-03-27-Context7-MCP.md) | AI 에이전트, Claude, Context7, MCP, claudecode |
+| 2026-03-27 | [졸업작품 기록(5)](posts/2026-03-27-졸업작품-기록-5.md) | - |
+| 2026-03-19 | [졸업작품 기록(4)](posts/2026-03-19-졸업작품-기록-4.md) | CNN, YAMNet, tensorflow, 머신러닝, 오디오 분류, 졸업작품, 프레임워크 |
+| 2026-03-19 | [졸업작품 기록(3)](posts/2026-03-19-졸업작품-기록-3.md) | CNN, 머신러닝, 멜 스케일, 스펙트로그램, 푸리에 변환 |
+| 2026-03-17 | [졸업작품 기록(2)](posts/2026-03-17-졸업작품-기록-2.md) | hw, sw, 머신러닝, 백엔드, 아두이노, 임베디드, 졸업작품 |
+| 2026-03-11 | [졸업작품 기록(1)](posts/2026-03-11-졸업작품-기록-1.md) | hw, sw, 머신러닝, 백엔드, 임베디드, 전자컴퓨터, 졸업작품, 지능시스템 |
+
+## 시리즈
+
+### AI 생태계 탐험 로그
+1. [[ Context7 MCP ]](posts/2026-03-27-Context7-MCP.md)
+2. [[ GitHub MCP ]](posts/2026-03-27-GitHub-MCP.md)
+3. [[ Context7 + GitHub MCP 콤보 ]](posts/2026-03-27-Context7-GitHub-MCP-콤보.md)
+4. [[ Notion MCP ]](posts/2026-03-30-Notion-MCP.md)
+5. [[ Playwright MCP Server ]](posts/2026-03-30-Playwright-MCP-Server.md)
+
+### 졸업작품 기록
+1. [졸업작품 기록(1)](posts/2026-03-11-졸업작품-기록-1.md)
+2. [졸업작품 기록(2)](posts/2026-03-17-졸업작품-기록-2.md)
+3. [졸업작품 기록(3)](posts/2026-03-19-졸업작품-기록-3.md)
+4. [졸업작품 기록(4)](posts/2026-03-19-졸업작품-기록-4.md)
+5. [졸업작품 기록(5)](posts/2026-03-27-졸업작품-기록-5.md)
