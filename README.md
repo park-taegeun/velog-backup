@@ -6,6 +6,7 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-03-31 | [[ Playwright + GitHub + Notion 3 MCP 콤보 실습 ]](posts/2026-03-31-Playwright-GitHub-Notion-3-MCP-콤보-실습.md) | MCP, claudecode, github, notion, playwright |
 | 2026-03-30 | [[ Playwright MCP Server ]](posts/2026-03-30-Playwright-MCP-Server.md) | AI에이전트, MCP, claudecode, playwright, 브라우저자동화 |
 | 2026-03-30 | [[ Notion MCP ]](posts/2026-03-30-Notion-MCP.md) | AI에이전트, MCP, claudecode, notion, 업무자동화 |
 | 2026-03-27 | [[ Context7 + GitHub MCP 콤보 ]](posts/2026-03-27-Context7-GitHub-MCP-콤보.md) | AI에이전트, Context7, MCP, claudecode, github |
@@ -25,6 +26,7 @@
 3. [[ Context7 + GitHub MCP 콤보 ]](posts/2026-03-27-Context7-GitHub-MCP-콤보.md)
 4. [[ Notion MCP ]](posts/2026-03-30-Notion-MCP.md)
 5. [[ Playwright MCP Server ]](posts/2026-03-30-Playwright-MCP-Server.md)
+6. [[ Playwright + GitHub + Notion 3 MCP 콤보 실습 ]](posts/2026-03-31-Playwright-GitHub-Notion-3-MCP-콤보-실습.md)
 
 ### 졸업작품 기록
 1. [졸업작품 기록(1)](posts/2026-03-11-졸업작품-기록-1.md)
