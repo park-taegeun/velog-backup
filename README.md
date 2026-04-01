@@ -6,6 +6,7 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-04-01 | [[ Claude Code Nested Agent ]](posts/2026-04-01-Claude-Code-Nested-Agent.md) | AI에이전트, AI자동화, NestedAgent, TaskTool, claudecode |
 | 2026-04-01 | [[ Slack MCP ]](posts/2026-04-01-Slack-MCP.md) | AI자동화, MCP, claudecode, github, slack |
 | 2026-04-01 | [[ Memory + Playwright + Notion + GitHub 4 MCP 콤보 ]](posts/2026-04-01-Memory-Playwright-Notion-GitHub-4-MCP-콤보.md) | AI에이전트, MCP, claudecode, memory, 자동화 |
 | 2026-04-01 | [[ Memory MCP ]](posts/2026-04-01-Memory-MCP.md) | AI자동화, KnowledgeGraph, MCP, claudecode, memory |
@@ -41,6 +42,7 @@
 11. [[ Memory MCP ]](posts/2026-04-01-Memory-MCP.md)
 12. [[ Memory + Playwright + Notion + GitHub 4 MCP 콤보 ]](posts/2026-04-01-Memory-Playwright-Notion-GitHub-4-MCP-콤보.md)
 13. [[ Slack MCP ]](posts/2026-04-01-Slack-MCP.md)
+14. [[ Claude Code Nested Agent ]](posts/2026-04-01-Claude-Code-Nested-Agent.md)
 
 ### 졸업작품 기록
 1. [졸업작품 기록(1)](posts/2026-03-11-졸업작품-기록-1.md)
