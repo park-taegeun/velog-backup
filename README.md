@@ -6,6 +6,10 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-04-01 | [[ Firecrawl MCP + 콤보 실습]](posts/2026-04-01-Firecrawl-MCP-콤보-실습.md) | AI자동화, FireCrawl, MCP, claudecode, 웹크롤링 |
+| 2026-04-01 | [[ Sequential Thinking + GitHub + Notion 3 MCP 콤보 ]](posts/2026-04-01-Sequential-Thinking-GitHub-Notion-3-MCP-콤보.md) | MCP, SequentialThinking, claudecode, github, notion |
+| 2026-04-01 | [[ Sequential Thinking MCP ]](posts/2026-04-01-Sequential-Thinking-MCP.md) | AI에이전트, MCP, SequentialThinking, claudecode, 아키텍처설계 |
+| 2026-03-31 | [[ Supabase MCP ]](posts/2026-03-31-Supabase-MCP.md) | AI에이전트, MCP, PostgreSQL, claudecode, supabase |
 | 2026-03-31 | [[ Playwright + GitHub + Notion 3 MCP 콤보 실습 ]](posts/2026-03-31-Playwright-GitHub-Notion-3-MCP-콤보-실습.md) | MCP, claudecode, github, notion, playwright |
 | 2026-03-30 | [[ Playwright MCP Server ]](posts/2026-03-30-Playwright-MCP-Server.md) | AI에이전트, MCP, claudecode, playwright, 브라우저자동화 |
 | 2026-03-30 | [[ Notion MCP ]](posts/2026-03-30-Notion-MCP.md) | AI에이전트, MCP, claudecode, notion, 업무자동화 |
@@ -27,6 +31,10 @@
 4. [[ Notion MCP ]](posts/2026-03-30-Notion-MCP.md)
 5. [[ Playwright MCP Server ]](posts/2026-03-30-Playwright-MCP-Server.md)
 6. [[ Playwright + GitHub + Notion 3 MCP 콤보 실습 ]](posts/2026-03-31-Playwright-GitHub-Notion-3-MCP-콤보-실습.md)
+7. [[ Supabase MCP ]](posts/2026-03-31-Supabase-MCP.md)
+8. [[ Sequential Thinking MCP ]](posts/2026-04-01-Sequential-Thinking-MCP.md)
+9. [[ Sequential Thinking + GitHub + Notion 3 MCP 콤보 ]](posts/2026-04-01-Sequential-Thinking-GitHub-Notion-3-MCP-콤보.md)
+10. [[ Firecrawl MCP + 콤보 실습]](posts/2026-04-01-Firecrawl-MCP-콤보-실습.md)
 
 ### 졸업작품 기록
 1. [졸업작품 기록(1)](posts/2026-03-11-졸업작품-기록-1.md)
