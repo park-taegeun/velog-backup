@@ -6,6 +6,7 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-04-01 | [[ Memory MCP ]](posts/2026-04-01-Memory-MCP.md) | AI자동화, KnowledgeGraph, MCP, claudecode, memory |
 | 2026-04-01 | [[ Firecrawl MCP + 콤보 실습]](posts/2026-04-01-Firecrawl-MCP-콤보-실습.md) | AI자동화, FireCrawl, MCP, claudecode, 웹크롤링 |
 | 2026-04-01 | [[ Sequential Thinking + GitHub + Notion 3 MCP 콤보 ]](posts/2026-04-01-Sequential-Thinking-GitHub-Notion-3-MCP-콤보.md) | MCP, SequentialThinking, claudecode, github, notion |
 | 2026-04-01 | [[ Sequential Thinking MCP ]](posts/2026-04-01-Sequential-Thinking-MCP.md) | AI에이전트, MCP, SequentialThinking, claudecode, 아키텍처설계 |
@@ -35,6 +36,7 @@
 8. [[ Sequential Thinking MCP ]](posts/2026-04-01-Sequential-Thinking-MCP.md)
 9. [[ Sequential Thinking + GitHub + Notion 3 MCP 콤보 ]](posts/2026-04-01-Sequential-Thinking-GitHub-Notion-3-MCP-콤보.md)
 10. [[ Firecrawl MCP + 콤보 실습]](posts/2026-04-01-Firecrawl-MCP-콤보-실습.md)
+11. [[ Memory MCP ]](posts/2026-04-01-Memory-MCP.md)
 
 ### 졸업작품 기록
 1. [졸업작품 기록(1)](posts/2026-03-11-졸업작품-기록-1.md)
