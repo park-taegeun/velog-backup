@@ -6,6 +6,10 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-04-07 | [[ 졸업작품 기록 (9) ]](posts/2026-04-07-졸업작품-기록-9.md) | hw, 아두이노, 임베디드, 졸업작품 |
+| 2026-04-07 | [[ 졸업작품 기록 (8) ]](posts/2026-04-07-졸업작품-기록-8.md) | TOF, pir, 머신러닝, 유사도 비교, 초인종, 졸업작품 |
+| 2026-04-07 | [[ 졸업작품 기록 (7) ]](posts/2026-04-07-졸업작품-기록-7.md) | API, REST, 카카오톡, 졸업작품 |
+| 2026-04-07 | [졸업작품 기록 (6)](posts/2026-04-07-졸업작품-기록-6.md) | Flask, Nginx, aws, gunicorn, sqlite, 졸업작품 |
 | 2026-04-01 | [[ Claude Code Nested Agent ]](posts/2026-04-01-Claude-Code-Nested-Agent.md) | AI에이전트, AI자동화, NestedAgent, TaskTool, claudecode |
 | 2026-04-01 | [[ Slack MCP ]](posts/2026-04-01-Slack-MCP.md) | AI자동화, MCP, claudecode, github, slack |
 | 2026-04-01 | [[ Memory + Playwright + Notion + GitHub 4 MCP 콤보 ]](posts/2026-04-01-Memory-Playwright-Notion-GitHub-4-MCP-콤보.md) | AI에이전트, MCP, claudecode, memory, 자동화 |
@@ -50,3 +54,7 @@
 3. [졸업작품 기록(3)](posts/2026-03-19-졸업작품-기록-3.md)
 4. [졸업작품 기록(4)](posts/2026-03-19-졸업작품-기록-4.md)
 5. [졸업작품 기록(5)](posts/2026-03-27-졸업작품-기록-5.md)
+6. [졸업작품 기록 (6)](posts/2026-04-07-졸업작품-기록-6.md)
+7. [[ 졸업작품 기록 (7) ]](posts/2026-04-07-졸업작품-기록-7.md)
+8. [[ 졸업작품 기록 (8) ]](posts/2026-04-07-졸업작품-기록-8.md)
+9. [[ 졸업작품 기록 (9) ]](posts/2026-04-07-졸업작품-기록-9.md)
