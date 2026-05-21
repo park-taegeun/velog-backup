@@ -6,6 +6,7 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-05-21 | [[ LAB ] 05. window 환경 셋업](posts/2026-05-21-LAB-05-window-환경-셋업.md) | VS Code, WSL2, setup, window, 환경 |
 | 2026-05-20 | [[ LAB ] 04. 기초를 다지자(3)](posts/2026-05-20-LAB-04-기초를-다지자3.md) | aggregation, groupby, pandas |
 | 2026-05-20 | [[ LAB ] 03. 기초를 다지자(2)](posts/2026-05-20-LAB-03-기초를-다지자2.md) | pandas, time_alignment, 시간 정렬 |
 | 2026-05-19 | [[ LAB ] 02. 기초를 다지자](posts/2026-05-19-LAB-03-기초를-다지자.md) | Indexing, dataframe, pandas, 코랩, 파이썬 |
@@ -118,3 +119,4 @@
 3. [[ LAB ] 02. 기초를 다지자](posts/2026-05-19-LAB-03-기초를-다지자.md)
 4. [[ LAB ] 03. 기초를 다지자(2)](posts/2026-05-20-LAB-03-기초를-다지자2.md)
 5. [[ LAB ] 04. 기초를 다지자(3)](posts/2026-05-20-LAB-04-기초를-다지자3.md)
+6. [[ LAB ] 05. window 환경 셋업](posts/2026-05-21-LAB-05-window-환경-셋업.md)
