@@ -6,6 +6,8 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-05-22 | [[ LAB ] 07. 기초를 다지자 (5)](posts/2026-05-22-LAB-07-기초를-다지자-5.md) | BERT, GPT, decoder, encoder, transformer |
+| 2026-05-22 | [[ LAB ] 06. 기초를 다지자(4)](posts/2026-05-22-LAB-06-기초를-다지자4.md) | NLP, decoder, encoder, huggingface, transformer |
 | 2026-05-21 | [[ LAB ] 05. window 환경 셋업](posts/2026-05-21-LAB-05-window-환경-셋업.md) | VS Code, WSL2, setup, window, 환경 |
 | 2026-05-20 | [[ LAB ] 04. 기초를 다지자(3)](posts/2026-05-20-LAB-04-기초를-다지자3.md) | aggregation, groupby, pandas |
 | 2026-05-20 | [[ LAB ] 03. 기초를 다지자(2)](posts/2026-05-20-LAB-03-기초를-다지자2.md) | pandas, time_alignment, 시간 정렬 |
@@ -120,3 +122,5 @@
 4. [[ LAB ] 03. 기초를 다지자(2)](posts/2026-05-20-LAB-03-기초를-다지자2.md)
 5. [[ LAB ] 04. 기초를 다지자(3)](posts/2026-05-20-LAB-04-기초를-다지자3.md)
 6. [[ LAB ] 05. window 환경 셋업](posts/2026-05-21-LAB-05-window-환경-셋업.md)
+7. [[ LAB ] 06. 기초를 다지자(4)](posts/2026-05-22-LAB-06-기초를-다지자4.md)
+8. [[ LAB ] 07. 기초를 다지자 (5)](posts/2026-05-22-LAB-07-기초를-다지자-5.md)
