@@ -6,6 +6,8 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-05-26 | [[ LAB ] 11. Sarcasm 탐지 실험(2)](posts/2026-05-26-LAB-11-Sarcasm-탐지-실험2.md) | LLM, gemma, suspicion bias, 사후 합리화 |
+| 2026-05-26 | [[ LAB ] 10. Sarcasm 탐지 실험(1)](posts/2026-05-26-LAB-10-Sarcasm-탐지-실험1.md) | Few-Shot, Sarcasm, Zero-shot, gemma |
 | 2026-05-26 | [[ LAB ] 09. Gemma 4 로컬 셋업](posts/2026-05-26-LAB-9-Gemma-4-로컬-셋업.md) | LLM, gemma4, 멀티모달, 셋업 |
 | 2026-05-22 | [[ LAB ] 08. 감정 분석 모델 실습](posts/2026-05-22-LAB-08-감정-분석-모델-실습.md) | DistillBERT, Sarcasm, huggingface, 감정 분석 |
 | 2026-05-22 | [[ LAB ] 07. 기초를 다지자 (5)](posts/2026-05-22-LAB-07-기초를-다지자-5.md) | BERT, GPT, decoder, encoder, transformer |
@@ -128,3 +130,5 @@
 8. [[ LAB ] 07. 기초를 다지자 (5)](posts/2026-05-22-LAB-07-기초를-다지자-5.md)
 9. [[ LAB ] 08. 감정 분석 모델 실습](posts/2026-05-22-LAB-08-감정-분석-모델-실습.md)
 10. [[ LAB ] 09. Gemma 4 로컬 셋업](posts/2026-05-26-LAB-9-Gemma-4-로컬-셋업.md)
+11. [[ LAB ] 10. Sarcasm 탐지 실험(1)](posts/2026-05-26-LAB-10-Sarcasm-탐지-실험1.md)
+12. [[ LAB ] 11. Sarcasm 탐지 실험(2)](posts/2026-05-26-LAB-11-Sarcasm-탐지-실험2.md)
