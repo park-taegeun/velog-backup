@@ -6,6 +6,7 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-05-26 | [[ LAB ] 09. Gemma 4 로컬 셋업](posts/2026-05-26-LAB-9-Gemma-4-로컬-셋업.md) | LLM, gemma4, 멀티모달, 셋업 |
 | 2026-05-22 | [[ LAB ] 08. 감정 분석 모델 실습](posts/2026-05-22-LAB-08-감정-분석-모델-실습.md) | DistillBERT, Sarcasm, huggingface, 감정 분석 |
 | 2026-05-22 | [[ LAB ] 07. 기초를 다지자 (5)](posts/2026-05-22-LAB-07-기초를-다지자-5.md) | BERT, GPT, decoder, encoder, transformer |
 | 2026-05-22 | [[ LAB ] 06. 기초를 다지자(4)](posts/2026-05-22-LAB-06-기초를-다지자4.md) | NLP, decoder, encoder, huggingface, transformer |
@@ -126,3 +127,4 @@
 7. [[ LAB ] 06. 기초를 다지자(4)](posts/2026-05-22-LAB-06-기초를-다지자4.md)
 8. [[ LAB ] 07. 기초를 다지자 (5)](posts/2026-05-22-LAB-07-기초를-다지자-5.md)
 9. [[ LAB ] 08. 감정 분석 모델 실습](posts/2026-05-22-LAB-08-감정-분석-모델-실습.md)
+10. [[ LAB ] 09. Gemma 4 로컬 셋업](posts/2026-05-26-LAB-9-Gemma-4-로컬-셋업.md)
