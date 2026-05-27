@@ -6,6 +6,7 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-05-27 | [[ LAB ] 13. 실데이터셋 찾기](posts/2026-05-27-LAB-13-실데이터셋-찾기.md) | KoCoSa, MUStARD, dataset, 멀티모달 |
 | 2026-05-27 | [[ LAB ] 12. 통제 실험](posts/2026-05-27-LAB-12-통제-실험.md) | gemma, 가설 검증, 통제 실험 |
 | 2026-05-26 | [[ LAB ] 11. Sarcasm 탐지 실험(2)](posts/2026-05-26-LAB-11-Sarcasm-탐지-실험2.md) | LLM, gemma, suspicion bias, 사후 합리화 |
 | 2026-05-26 | [[ LAB ] 10. Sarcasm 탐지 실험(1)](posts/2026-05-26-LAB-10-Sarcasm-탐지-실험1.md) | Few-Shot, Sarcasm, Zero-shot, gemma |
@@ -134,3 +135,4 @@
 11. [[ LAB ] 10. Sarcasm 탐지 실험(1)](posts/2026-05-26-LAB-10-Sarcasm-탐지-실험1.md)
 12. [[ LAB ] 11. Sarcasm 탐지 실험(2)](posts/2026-05-26-LAB-11-Sarcasm-탐지-실험2.md)
 13. [[ LAB ] 12. 통제 실험](posts/2026-05-27-LAB-12-통제-실험.md)
+14. [[ LAB ] 13. 실데이터셋 찾기](posts/2026-05-27-LAB-13-실데이터셋-찾기.md)
