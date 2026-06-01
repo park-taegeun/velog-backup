@@ -6,6 +6,12 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-06-01 | [[ LAB ] 23. KconfSpeech 다중 세션 평가 + 환각 트리거 분석](posts/2026-06-01-LAB-23-KconfSpeech-다중-세션-평가-환각-트리거-분석.md) | ASR, CER, 멀티모달, 트리거, 환각 |
+| 2026-06-01 | [[ LAB ] 22. KconfSpeech 회의 ASR 평가](posts/2026-06-01-LAB-22-KconfSpeech-회의-ASR-평가.md) | AIHub, ASR, CER |
+| 2026-06-01 | [[ LAB ] 21. 오디오(Zeroth 데이터) 변조 실험](posts/2026-06-01-LAB-21-오디오Zeroth-데이터-변조-실험.md) | LLM, SNR, perturbation, 무음 마스킹 격자 |
+| 2026-06-01 | [[ LAB ] 20. 프롬포트 - 환각 현상 억제](posts/2026-06-01-LAB-20-프롬포트-환각-현상-억제.md) | ASR, zeroth, 환각 현상 |
+| 2026-06-01 | [[ LAB ] 19. 한국어 ASR 환각 판정 지표 + baseline 진단](posts/2026-06-01-LAB-19-한국어-ASR-환각-판정-지표-baseline-진단.md) | ASR, CER, baseline, wer, 환각현상 |
+| 2026-06-01 | [[ LAB ] 18. 세가지 방식 비교](posts/2026-06-01-LAB-18-세가지-방식-비교.md) | gemma, mfcc, wav2vec2, 감정분류 |
 | 2026-05-28 | [[ LAB ] 17. 동작 확인에서 정량 측정으로 - 한국어 ASR WER/CER](posts/2026-05-28-LAB-17-한국어-ASR-WER-CER.md) | ASR, CER, gemma, wer, 텍스트 정규화 |
 | 2026-05-28 | [[ LAB ] 16. ARS 동작 테스트 - 오디오 타워 양자화 제외](posts/2026-05-28-LAB-16-ARS-동작-테스트.md) | - |
 | 2026-05-28 | [[ LAB ] 15. Gemma 4 E4B-it 첫 로드 테스트](posts/2026-05-28-LAB-15-Gemma-4-E4B-it-첫-로드-테스트.md) | gemma |
@@ -144,3 +150,9 @@
 16. [[ LAB ] 15. Gemma 4 E4B-it 첫 로드 테스트](posts/2026-05-28-LAB-15-Gemma-4-E4B-it-첫-로드-테스트.md)
 17. [[ LAB ] 16. ARS 동작 테스트 - 오디오 타워 양자화 제외](posts/2026-05-28-LAB-16-ARS-동작-테스트.md)
 18. [[ LAB ] 17. 동작 확인에서 정량 측정으로 - 한국어 ASR WER/CER](posts/2026-05-28-LAB-17-한국어-ASR-WER-CER.md)
+19. [[ LAB ] 18. 세가지 방식 비교](posts/2026-06-01-LAB-18-세가지-방식-비교.md)
+20. [[ LAB ] 19. 한국어 ASR 환각 판정 지표 + baseline 진단](posts/2026-06-01-LAB-19-한국어-ASR-환각-판정-지표-baseline-진단.md)
+21. [[ LAB ] 20. 프롬포트 - 환각 현상 억제](posts/2026-06-01-LAB-20-프롬포트-환각-현각-억제.md)
+22. [[ LAB ] 21. 오디오(Zeroth 데이터) 변조 실험](posts/2026-06-01-LAB-21-오디오Zeroth-데이터-변조-실험.md)
+23. [[ LAB ] 22. KconfSpeech 회의 ASR 평가](posts/2026-06-01-LAB-22-KconfSpeech-회의-ASR-평가.md)
+24. [[ LAB ] 23. KconfSpeech 다중 세션 평가 + 환각 트리거 분석](posts/2026-06-01-LAB-23-KconfSpeech-다중-세션-평가-환각-트리거-분석.md)
