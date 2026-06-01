@@ -6,6 +6,7 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-06-01 | [[ LAB ] 25. 짧은 발화 텍스트 -> 프롬포트 억제 실험](posts/2026-06-01-LAB-25-짧은-발화-텍스트-프롬포트-억제-실험.md) | gemma4, ASR, 환각, 프롬포트, CER |
 | 2026-06-01 | [[ LAB ] 24. LoRA 파인튜닝](posts/2026-06-01-LAB-24-LoRA-파인튜닝.md) | Lora, fine tunning, 중간 차원 |
 | 2026-06-01 | [[ LAB ] 23. KconfSpeech 다중 세션 평가 + 환각 트리거 분석](posts/2026-06-01-LAB-23-KconfSpeech-다중-세션-평가-환각-트리거-분석.md) | ASR, CER, 멀티모달, 트리거, 환각 |
 | 2026-06-01 | [[ LAB ] 22. KconfSpeech 회의 ASR 평가](posts/2026-06-01-LAB-22-KconfSpeech-회의-ASR-평가.md) | AIHub, ASR, CER |
@@ -158,3 +159,4 @@
 23. [[ LAB ] 22. KconfSpeech 회의 ASR 평가](posts/2026-06-01-LAB-22-KconfSpeech-회의-ASR-평가.md)
 24. [[ LAB ] 23. KconfSpeech 다중 세션 평가 + 환각 트리거 분석](posts/2026-06-01-LAB-23-KconfSpeech-다중-세션-평가-환각-트리거-분석.md)
 25. [[ LAB ] 24. LoRA 파인튜닝](posts/2026-06-01-LAB-24-LoRA-파인튜닝.md)
+26. [[ LAB ] 25. 짧은 발화 텍스트 -> 프롬포트 억제 실험](posts/2026-06-01-LAB-25-짧은-발화-텍스트-프롬포트-억제-실험.md)
