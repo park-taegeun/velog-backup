@@ -6,6 +6,7 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-06-02 | [[ LAB ] 27. Gemma-4 ASR 파인튜닝 (2)](posts/2026-06-02-LAB-27-Gemma-4-ASR-파인튜닝-2.md) | ASR, DataCollator, gemma |
 | 2026-06-02 | [[ LAB ] 26. Gemma-4 ASR 파인튜닝 (1) 도메인 적응 목표 설정과 데이터 준비](posts/2026-06-02-LAB-26-Gemma-4-ASR-파인튜닝-1.md) | ASR, Lora, fine tunning, 라벨링 |
 | 2026-06-01 | [[ LAB ] 25. 짧은 발화 텍스트 -> 프롬포트 억제 실험](posts/2026-06-01-LAB-25-짧은-발화-텍스트-프롬포트-억제-실험.md) | gemma4, ASR, 환각, 프롬포트, CER |
 | 2026-06-01 | [[ LAB ] 24. LoRA 파인튜닝](posts/2026-06-01-LAB-24-LoRA-파인튜닝.md) | Lora, fine tunning, 중간 차원 |
@@ -162,3 +163,4 @@
 25. [[ LAB ] 24. LoRA 파인튜닝](posts/2026-06-01-LAB-24-LoRA-파인튜닝.md)
 26. [[ LAB ] 25. 짧은 발화 텍스트 -> 프롬포트 억제 실험](posts/2026-06-01-LAB-25-짧은-발화-텍스트-프롬포트-억제-실험.md)
 27. [[ LAB ] 26. Gemma-4 ASR 파인튜닝 (1) 도메인 적응 목표 설정과 데이터 준비](posts/2026-06-02-LAB-26-Gemma-4-ASR-파인튜닝-1.md)
+28. [[ LAB ] 27. Gemma-4 ASR 파인튜닝 (2)](posts/2026-06-02-LAB-27-Gemma-4-ASR-파인튜닝-2.md)
