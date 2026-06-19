@@ -6,6 +6,7 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-06-19 | [[ LAB ] 34. 파인튜닝 - 데이터 전처리](posts/2026-06-19-LAB-34-파인튜닝-데이터-전처리.md) | LLM, fine tunning, 데이터, 전처리, 환각 |
 | 2026-06-17 | [[ LAB ] 33. 임베딩 편차 음향 분해](posts/2026-06-17-LAB-33-임베딩-편차-음향-분해.md) | openSMILE, 임베딩, 편차 |
 | 2026-06-17 | [[ LAB ] 32. 임베딩·openSMILE 편차 비중복 검증](posts/2026-06-17-LAB-32-임베딩openSMILE-편차-비중복-검증.md) | openSMILE, 임베딩, 편차 |
 | 2026-06-16 | [[ LAB ] 31. Gemma4 음성특징 스모크 + openSMILE 비교](posts/2026-06-16-LAB-31-Gemma4-음성특징-스모크-openSMILE-비교.md) | openSMILE, 수치화, 스모크 |
@@ -180,3 +181,4 @@
 32. [[ LAB ] 31. Gemma4 음성특징 스모크 + openSMILE 비교](posts/2026-06-16-LAB-31-Gemma4-음성특징-스모크-openSMILE-비교.md)
 33. [[ LAB ] 32. 임베딩·openSMILE 편차 비중복 검증](posts/2026-06-17-LAB-32-임베딩openSMILE-편차-비중복-검증.md)
 34. [[ LAB ] 33. 임베딩 편차 음향 분해](posts/2026-06-17-LAB-33-임베딩-편차-음향-분해.md)
+35. [[ LAB ] 34. 파인튜닝 - 데이터 전처리](posts/2026-06-19-LAB-34-파인튜닝-데이터-전처리.md)
