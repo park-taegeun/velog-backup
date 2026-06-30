@@ -6,6 +6,7 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-06-30 | [[ LAB ] 43. depthwise conv 음소 개입 실험](posts/2026-06-30-LAB-43-depthwise-conv-음소-개입-실험.md) | ASR, fine tunning, gemma, 인코더 |
 | 2026-06-29 | [[ LAB ] 42. 발음 오인식 외부 ASR 진단](posts/2026-06-29-LAB-42-발음-오인식-외부-ASR-진단.md) | ASR, whisper |
 | 2026-06-29 | [[ 졸업작품 기록 (38) ]](posts/2026-06-29-졸업작품-기록-38.md) | IoT, 대시보드, 바이브코딩, 졸업작품 |
 | 2026-06-29 | [[ LAB ] 41. audio_tower LoRA 학습](posts/2026-06-29-LAB-41-audiotower-LoRA-학습.md) | ASR, Lora, audiotower, fine tunning |
@@ -204,3 +205,4 @@
 41. [[ LAB ] 40. 디코딩 파라미터 실험](posts/2026-06-29-LAB-40-디코딩-파라미터-실험.md)
 42. [[ LAB ] 41. audio_tower LoRA 학습](posts/2026-06-29-LAB-41-audiotower-LoRA-학습.md)
 43. [[ LAB ] 42. 발음 오인식 외부 ASR 진단](posts/2026-06-29-LAB-42-발음-오인식-외부-ASR-진단.md)
+44. [[ LAB ] 43. depthwise conv 음소 개입 실험](posts/2026-06-30-LAB-43-depthwise-conv-음소-개입-실험.md)
