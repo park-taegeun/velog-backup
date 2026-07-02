@@ -6,6 +6,7 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-07-02 | [[ LAB ] 44. 긴 발화 audio_tower 발음 오인식 효과 검증](posts/2026-07-02-LAB-44-긴-발화-audiotower-발음-오인식-효과-검증.md) | ASR, LLM, audiotower, 환각 |
 | 2026-07-01 | [[ 졸업작품 기록 (41) ]](posts/2026-07-01-졸업작품-기록-41.md) | Keras, tensorflow, 머신러닝, 졸업작품 |
 | 2026-07-01 | [[ 졸업작품 기록 (40) ]](posts/2026-07-01-졸업작품-기록-40.md) | ML, YAMNet, 졸업작품, 파이프라인 |
 | 2026-07-01 | [[ 졸업작품 기록 (39) ]](posts/2026-07-01-졸업작품-기록-39.md) | frontend, 대시보드, 졸업작품 |
@@ -212,3 +213,4 @@
 42. [[ LAB ] 41. audio_tower LoRA 학습](posts/2026-06-29-LAB-41-audiotower-LoRA-학습.md)
 43. [[ LAB ] 42. 발음 오인식 외부 ASR 진단](posts/2026-06-29-LAB-42-발음-오인식-외부-ASR-진단.md)
 44. [[ LAB ] 43. depthwise conv 음소 개입 실험](posts/2026-06-30-LAB-43-depthwise-conv-음소-개입-실험.md)
+45. [[ LAB ] 44. 긴 발화 audio_tower 발음 오인식 효과 검증](posts/2026-07-02-LAB-44-긴-발화-audiotower-발음-오인식-효과-검증.md)
