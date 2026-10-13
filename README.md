@@ -6,6 +6,11 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-10-13 | [[ LAB ] 82. 10/08 랩미팅 피드백 정리](posts/2026-10-13-LAB-82-1008-랩미팅-피드백-정리.md) | LLM, gemma, 멀티모달, 어조분석, 통계, 표준화 |
+| 2026-10-13 | [[ Claude Code로 hwp-mcp 연결하기 ]](posts/2026-10-13-Claude-Code로-hwp-mcp-연결하기.md) | MCP, claudecode, hwp-mcp, 한글문서 |
+| 2026-10-12 | [[ 졸업작품 기록 (90) ]](posts/2026-10-12-졸업작품-기록-90.md) | IoT, 음성인식, 임베디드, 졸업작품, 테스트, 트러블슈팅 |
+| 2026-10-11 | [[ Claude Code에 Ruflo 붙여보기 ]](posts/2026-10-11-Claude-Code에-Ruflo-붙여보기.md) | AI에이전트, ClaudeFlow, Ruflo, claudecode |
+| 2026-10-11 | [[ Claude Code로 Scrapling MCP 연결 ]](posts/2026-10-11-Claude-Code로-Scrapling-MCP-연결하기-Cloudflare-봇-검사를-통과하는-스크래퍼를-AI에게-붙이는-법.md) | Cloudflare, MCP, Scrapling, claudecode, 스크래핑 |
 | 2026-10-08 | [[ 졸업작품 기록 (89) ]](posts/2026-10-08-졸업작품-기록-89.md) | 백엔드, 아키텍처, 테스트, 트러블슈팅, 프로젝트관리 |
 | 2026-10-08 | [[ 졸업작품 기록 (88) ]](posts/2026-10-08-졸업작품-기록-88.md) | 실험설계, 음성인식, 임베디드, 졸업작품, 트러블슈팅 |
 | 2026-10-08 | [[ 졸업작품 기록 (87) ]](posts/2026-10-08-졸업작품-기록-87.md) | esp32, 소리분류, 오프라인분석, 임계값, 졸업작품 |
@@ -211,6 +216,9 @@
 13. [[ Slack MCP ]](posts/2026-04-01-Slack-MCP.md)
 14. [[ Claude Code Nested Agent ]](posts/2026-04-01-Claude-Code-Nested-Agent.md)
 15. [[ Claude Desktop에 Obsidian 볼트 연결 ]](posts/2026-08-02-Claude-Desktop에-Obsidian-볼트-연결.md)
+16. [[ Claude Code로 Scrapling MCP 연결 ]](posts/2026-10-11-Claude-Code로-Scrapling-MCP-연결하기-Cloudflare-봇-검사를-통과하는-스크래퍼를-AI에게-붙이는-법.md)
+17. [[ Claude Code에 Ruflo 붙여보기 ]](posts/2026-10-11-Claude-Code에-Ruflo-붙여보기.md)
+18. [[ Claude Code로 hwp-mcp 연결하기 ]](posts/2026-10-13-Claude-Code로-hwp-mcp-연결하기.md)
 
 ### 졸업작품 기록
 1. [졸업작품 기록(1)](posts/2026-03-11-졸업작품-기록-1.md)
@@ -302,6 +310,7 @@
 87. [[ 졸업작품 기록 (87) ]](posts/2026-10-08-졸업작품-기록-87.md)
 88. [[ 졸업작품 기록 (88) ]](posts/2026-10-08-졸업작품-기록-88.md)
 89. [[ 졸업작품 기록 (89) ]](posts/2026-10-08-졸업작품-기록-89.md)
+90. [[ 졸업작품 기록 (90) ]](posts/2026-10-12-졸업작품-기록-90.md)
 
 ### AI_LAB
 1. [[ LAB ] 0. 불안함](posts/2026-05-18-LAB-0-불안함.md)
@@ -386,3 +395,4 @@
 79. [[ LAB ] 79. 사라진 학습 데이터를 똑같이 되살릴 수 있는가](posts/2026-10-06-LAB-79-사라진-학습-데이터를-똑같이-되살릴-수-있는가.md)
 80. [[ LAB ] 80. 학습을 다시 하면 같은 숫자가 나오는가](posts/2026-10-06-LAB-80-학습을-다시-하면-같은-숫자가-나오는가.md)
 81. [[ LAB ] 81. 실전 모듈로 학습하면](posts/2026-10-06-LAB-81-실전-모듈로-학습하면.md)
+82. [[ LAB ] 82. 10/08 랩미팅 피드백 정리](posts/2026-10-13-LAB-82-1008-랩미팅-피드백-정리.md)
