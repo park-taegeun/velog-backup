@@ -6,6 +6,7 @@
 
 | 날짜 | 제목 | 태그 |
 | --- | --- | --- |
+| 2026-10-19 | [[ LLM Wiki 운영편 — 자동화를 멈춘 이유와 "쌓을수록 똑똑해진다"를 숫자로 증명하기 ]](posts/2026-10-19-LLM-Wiki-운영편-자동화를-멈춘-이유와-쌓을수록-똑똑해진다를-숫자로-증명하기.md) | AI에이전트, AI평가, LLM Wiki, claude code, obsidian |
 | 2026-10-18 | [[ 카파시의 LLM Wiki를 Claude Code로 직접 구현하기 ]](posts/2026-10-18-카파시의-LLM-Wiki를-Claude-Code로-직접-구현하기.md) | AI에이전트, LLM Wiki, claude code, obsidian, 세컨드브레인 |
 | 2026-10-18 | [[ 졸업작품 기록 (94) ]](posts/2026-10-18-졸업작품-기록-94.md) | 개발일지, 모델평가, 졸업작품, 회고 |
 | 2026-10-17 | [[ 졸업작품 기록 (93) ]](posts/2026-10-17-졸업작품-기록-93.md) |  |
@@ -238,6 +239,7 @@
 20. [[ Claude Code Setup 플러그인으로 졸업작품 레포 진단하기 ]](posts/2026-10-14-Claude-Code-Setup-플러그인으로-졸업작품-레포-진단하기.md)
 21. [[ Claude Code에 claude-mem 붙여보기 ]](posts/2026-10-14-Claude-Code에-claude-mem-붙여보기.md)
 22. [[ 카파시의 LLM Wiki를 Claude Code로 직접 구현하기 ]](posts/2026-10-18-카파시의-LLM-Wiki를-Claude-Code로-직접-구현하기.md)
+23. [[ LLM Wiki 운영편 — 자동화를 멈춘 이유와 "쌓을수록 똑똑해진다"를 숫자로 증명하기 ]](posts/2026-10-19-LLM-Wiki-운영편-자동화를-멈춘-이유와-쌓을수록-똑똑해진다를-숫자로-증명하기.md)
 
 ### 졸업작품 기록
 1. [졸업작품 기록(1)](posts/2026-03-11-졸업작품-기록-1.md)
